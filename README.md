@@ -21,23 +21,6 @@ Getting Started
 Prerequisites
 To run this project, you only need a modern web browser like Chrome, Firefox, or Edge.
 
-Installation
-Clone the repository or download the project files:
-bash
-Copy code
-git clone https://github.com/your-repo/animated-background.git
-Navigate to the project folder:
-bash
-Copy code
-cd animated-background
-Open index.html in your browser:
-bash
-Copy code
-open index.html
-File Descriptions
-index.html: Defines the structure of the page and includes all shapes.
-styles.css: Contains all the styles and animations for the shapes.
-script.js: Placeholder for any JavaScript logic (currently logs initialization).
 Customization
 You can customize the shapes, animations, and colors by editing the styles.css file:
 
