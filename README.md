@@ -2,6 +2,8 @@
  
 This project demonstrates a visually appealing animated background using HTML, CSS, and JavaScript. The background includes a variety of shapes such as circles, squares, triangles, stars, diamonds, and hexagons that float and rotate dynamically across the screen.
 
+Disclaimer : This project is made with the help of Tutorial and I add some features and changed its User interface also take help of Ai to solve only error in projects.
+
 Features
 Dynamic Shapes: Multiple animated shapes, including circles, squares, triangles, stars, diamonds, and hexagons.
 Smooth Animations: Shapes float and rotate seamlessly with CSS keyframes.
